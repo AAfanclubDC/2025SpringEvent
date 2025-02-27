@@ -22,10 +22,10 @@ function generatePartyB(PartyA) {
                 const src = "images/players/" + player.PartyB + ".png";
                 if(player.style == "圖片")
                 {
-                    url = "/index.html?PartyA=" + player.PartyA + "&PartyB="+ player.PartyB ; // 
+                    url = "gallery.html?PartyA=" + player.PartyA + "&PartyB="+ player.PartyB ; // 
                 }else if(player.style == "網頁")
                 {
-                    url = "/pieces/"+ player.Title + ".html" ; 
+                    url = "pieces/"+ player.Title + ".html" ; 
                 }
                 const button = generateButton(src, player.Title, url);
                 article.appendChild(button);
