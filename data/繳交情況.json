@@ -5,7 +5,8 @@
         "Title": "學前半小時",
         "PartyA": "A",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page": 26
     },
     {
         "Time": 1739663200000,
@@ -13,7 +14,8 @@
         "Title": "交流障礙的關心",
         "PartyA": "B",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page": 62
     },
     {
         "Time": 1739663340000,
@@ -21,7 +23,8 @@
         "Title": "天不掉餡餅",
         "PartyA": "C",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page": 39
     },
     {
         "Time": 1739666271000,
@@ -29,7 +32,8 @@
         "Title": "goodbye my lover",
         "PartyA": "D",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page": 10
     },
     {
         "Time": 1739708624000,
@@ -45,7 +49,8 @@
         "Title": "換命",
         "PartyA": "C",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page": 224
     },
     {
         "Time": 1739836695000,
@@ -53,7 +58,8 @@
         "Title": "罰酒",
         "PartyA": "D",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":30
     },
     {
         "Time": 1739918382000,
@@ -61,15 +67,8 @@
         "Title": "你先別急我更急",
         "PartyA": "E",
         "style": "圖片",
-        "ext": "png"
-    },
-    {
-        "Time": 1739924197000,
-        "PartyB": 9,
-        "Title": "你先別急我更急",
-        "PartyA": "E",
-        "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":76
     },
     {
         "Time": 1739924286000,
@@ -77,7 +76,8 @@
         "Title": "雷很幸福",
         "PartyA": "B",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":55
     },
     {
         "Time": 1739935200000,
@@ -85,15 +85,8 @@
         "Title": "祝和平",
         "PartyA": "E",
         "style": "圖片",
-        "ext": "png"
-    },
-    {
-        "Time": 1740095387000,
-        "PartyB": 1,
-        "Title": "goodbye my lover",
-        "PartyA": "D",
-        "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":71
     },
     {
         "Time": 1740392667000,
@@ -101,7 +94,8 @@
         "Title": "A life-saving straw does not save life",
         "PartyA": "C",
         "style": "圖片",
-        "ext": "jpg"
+        "ext": "jpg",
+        "Page":119
     },
     {
         "Time": 1740531013000,
@@ -109,7 +103,8 @@
         "Title": "很蠢的死法",
         "PartyA": "D",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":39
     },
     {
         "Time": 1740623680000,
@@ -117,7 +112,8 @@
         "Title": "燃燒的蝴蝶與純白的桔梗",
         "PartyA": "C",
         "style": "圖片",
-        "ext": "jpg"
+        "ext": "jpg",
+        "Page":75
     },
     {
         "Time": 1740643570000,
@@ -125,7 +121,8 @@
         "Title": "怨憎会，爱别离",
         "PartyA": "D",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":14
     },
     {
         "Time": 1740644135000,
@@ -133,7 +130,8 @@
         "Title": "餐桌上的战争",
         "PartyA": "B",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":26
     },
     {
         "Time": 1740660996000,
@@ -141,7 +139,8 @@
         "Title": "火龙富翁",
         "PartyA": "C",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":21
     },
     {
         "Time": 1740677011000,
@@ -149,7 +148,8 @@
         "Title": "工口富翁",
         "PartyA": "C",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":37
     },
     {
         "Time": 1740694022000,
@@ -157,15 +157,17 @@
         "Title": "StrangeMeeting",
         "PartyA": "B",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":37
     },
     {
         "Time": 1740697730000,
         "PartyB": 6,
         "Title": "pgs2",
         "PartyA": "B",
-        "style": "網頁",
-        "ext": "png"
+        "style": "圖片",
+        "ext": "png",
+        "Page":4
     },
     {
         "Time": 1740698362000,
@@ -197,7 +199,8 @@
         "Title": "故事之富翁",
         "PartyA": "C",
         "style": "圖片",
-        "ext": "png"
+        "ext": "png",
+        "Page":65
     },
     {
         "Time": 1740721072000,
@@ -205,7 +208,8 @@
         "Title": "勇者大陸－聖戰之後",
         "PartyA": "E",
         "style": "圖片",
-        "ext": "jpg"
+        "ext": "jpg",
+        "Page":84
     },
     {
         "Time": 1740722653000,
@@ -213,6 +217,7 @@
         "Title": "童話般的、和平之夢",
         "PartyA": "B",
         "style": "圖片",
-        "ext": "jpg"
+        "ext": "jpg",
+        "Page":103
     }
 ]
